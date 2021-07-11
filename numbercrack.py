@@ -49,20 +49,18 @@ def cb():
 
 
 logo = logo ="""
-\033[1;93m  _  ___    _       _______ ____    _______ _    _ ____  ______ 
- | |/ / |  | |   /\|__   __/ __ \  |__   __| |  | |  _ \|  ____|
- | ' /| |__| |  /  \  | | | |  | |    | |  | |  | | |_) | |__   
- |  < |  __  | / /\ \ | | | |  | |    | |  | |  | |  _ <|  __|  
- | . \| |  | |/ ____ \| | | |__| |    | |  | |__| | |_) | |____ 
- |_|\_\_|  |_/_/    \_\_|  \____/     |_|   \____/|____/|______|                                                              
-\033[1;97m  
-\033[1;97m          SLAMW 7ALAYKWM
-\033[1;97m  CHONN BASHNN HEWAM BASHI HAMW LAYAKA
-\033[1;97m       YAKAM TOOLE CHANALAKAMAN 
-\033[1;97m   AM TOOLAYA HEWADARM SWDE LEBBENN
-"""
-CorrectUsername = 'KHATO'
-CorrectPassword = 'TUBE'
+A"""
+print( "         ")
+print( "         ")
+print( " \033[1;92m║══▒═✺═▒═✺═▒═══¤═¤═¤════════════¤═══║")
+print( " \033[1;96m║✯ Creator ✯ AMIN MALAKE        ║")
+print( " \033[1;98m║✯       𓆩 𝖆 𝖒 𝖎 𝖓 𓆪            ║")
+print( " \033[1;96m║✯ instagram : i4m.amin         ║")
+print( " \033[1;92m║══▒═✺═▒═✺═▒═══¤═¤═¤════════════¤═══║")
+print( "          ")
+print( "          ") 
+CorrectUsername = 'aa'
+CorrectPassword = 'aa'
 os.system('clear')
 print logo
 loop = 'true'
@@ -126,7 +124,7 @@ def action():
     xxx = str(len(id))
     psb('[\xe2\x9c\x93] GSHT RAQAMAKAN: ' + xxx)
     time.sleep(0.1)
-    psb('\x1b[1;91m[\xe2\x9c\x93]\x1b[1;97m BWASTA GARNA BO DARAWA  QA BELA BO BAWKME NAKAI HHHHH...')
+    psb('\x1b[1;91m[\xe2\x9c\x93]\x1b[1;93m AMIN X MALAKE ...')
     time.sleep(0.1)
     psb('[!] BO WASTAN DNI TOOLAKA  [CTRL + Z] DAGRA')
     time.sleep(0.5)
