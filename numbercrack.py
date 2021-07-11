@@ -49,7 +49,7 @@ def cb():
 
 
 
-logo = """ AMIN 卍 MALAKE 卍 INSTAGRAM 卍 I4M.AMIN 卍
+logo = """ AMIN  MALAKE  INSTAGRAM  @I4M.AMIN 
 """
 CorrectUsername = 'aa'
 CorrectPassword = 'aa'
