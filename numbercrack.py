@@ -48,20 +48,9 @@ def cb():
     os.system('clear')
 
 
-#### LOGO ####
-logo = """
-\033[1;96m █████╗ ███╗   ███╗██╗███╗   ██╗
-\033[1;91m██╔══██╗████╗ ████║██║████╗  ██║
-\033[1;91m███████║██╔████╔██║██║██╔██╗ ██║
-\033[1;91m██╔══██║██║╚██╔╝██║██║██║╚██╗██║
-\033[1;91m██║  ██║██║ ╚═╝ ██║██║██║ ╚████║
-\033[1;96m╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝
-\033[1;92m║══▒═✺═▒═✺═▒═══¤═¤═¤════════════¤═══║
-\033[1;96m║✯ Creator ✯ AMIN MALAKE        ║    
-\033[1;98m║✯ AMIN x MALAKE                ║  
-\033[1;96m║✯ instagram : amin_malake      ║
-\033[1;92m║══▒═✺═▒═✺═▒═══¤═¤═¤════════════¤═══║"""
 
+logo = """ AMIN 卍 MALAKE 卍 INSTAGRAM 卍 I4M.AMIN 卍
+"""
 CorrectUsername = 'aa'
 CorrectPassword = 'aa'
 os.system('clear')
@@ -79,7 +68,7 @@ while loop == 'true':
             print 'PASS HALAYA'
     else:
         print 'USER HALAYA'
-os.system("xdg-open https://youtu.be/cqs7VCOcmdE")
+os.system("xdg-open https://www.instagram.com/i4m.amin")
 
 back = 0
 successful = []
